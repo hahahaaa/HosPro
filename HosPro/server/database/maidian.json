@@ -1,0 +1,138 @@
+{
+  "comessage1de": 200,
+  "code": 200,
+  "message": "Success!",
+  "data": {
+    "goods_id": "2123874",
+    "is_show": "1",
+    "status": "1",
+    "show_str": "立即下单",
+    "preview": [
+      {
+        "thumb": "http://image19-d.yueus.com/yueyue/20160217/20160217002651_269084_201519_52567_640.jpg?640x480_120",
+        "original": "http://image19-d.yueus.com/yueyue/20160217/20160217002651_269084_201519_52567.jpg?640x480_120"
+      }
+    ],
+    "zoom": "yueyue://goto?user_id=&pid=1250026&type=inner_app",
+    "goods_type": {
+      "type_id": "43",
+      "theme_id": "",
+      "name": "大杂烩",
+      "color": "0xff92c423",
+      "link": "yueyue://goto?type=inner_web&url=http%3A%2F%2Fyp.yueus.com%2Fmall%2Fuser%2Ftopic%2Findex.php%3Ftopic_id%3D1109%26online%3D1&wifi_url=http%3A%2F%2Fyp-wifi.yueus.com%2Fmall%2Fuser%2Ftopic%2Findex.php%3Ftopic_id%3D1109%26online%3D1"
+    },
+    "title": "【表白神器】I LOVE U立体沙画手工沙画瓶套装  （包邮）",
+    "prices": "￥40.00/标准价格",
+    "rate": "￥40.00",
+    "unit": "/标准价格",
+    "original_prices": "",
+    "favor": {
+      "title": "收藏",
+      "value": "0"
+    },
+    "promise_title": "服务内容",
+    "promise_more_title": "更多内容",
+    "promise": [
+      {
+        "id": "278",
+        "title": "类型：",
+        "value": "大杂烩-手工艺品"
+      },
+      {
+        "id": "message",
+        "title": "寄送范围说明：",
+        "value": "全国范围内（不含港澳台地区）"
+      },
+      {
+        "id": "285",
+        "title": "注意事项：",
+        "value": "无"
+      },
+      {
+        "id": "438",
+        "title": "退费（退换）规则：",
+        "value": "不退不换"
+      },
+      {
+        "id": "464",
+        "title": "预约说明：",
+        "value": "立刻"
+      }
+    ],
+    "user": {
+      "title": "商家资料",
+      "user_id": "201519",
+      "name": "SandmanCrew立体沙画",
+      "avatar": "http://seller-icon-d.yueus.com/20/201519_86.jpg?2016070521",
+      "location": "广东·广州市",
+      "introduce": [],
+      "homepage": {
+        "title": "商家主页",
+        "request": "yueyue://goto?user_id=&seller_user_id=201519&pid=1220103&type=inner_app"
+      }
+    },
+    "business": {
+      "merit": {
+        "title": "服务评价",
+        "value": "5.0"
+      },
+      "totaltrade": {
+        "title": "交易次数",
+        "value": "15次"
+      },
+      "request": "yueyue://goto?user_id=&seller_user_id=201519&goods_id=2123874&pid=1220075&type=inner_app"
+    },
+    "secure": {
+      "link": "yueyue://goto?type=inner_web&url=http%3A%2F%2Fyp.yueus.com%2Fmall%2Fuser%2Ftopic%2Findex.php%3Ftopic_id%3D1100%26online%3D1&wifi_url=http%3A%2F%2Fyp-wifi.yueus.com%2Fmall%2Fuser%2Ftopic%2Findex.php%3Ftopic_id%3D1100%26online%3D1"
+    },
+    "profile_type": "43",
+    "property": [
+      {
+        "type_id": "43",
+        "title": "其他服务",
+        "image": "http://image19-d.yueus.com/yueyue/20160602/20160602172014_981226_10002_45611.png?60x60_130",
+        "description": [
+          {
+            "type": "label",
+            "id": "ot_label",
+            "title": "标签",
+            "value": "手工艺术"
+          }
+        ]
+      }
+    ],
+    "detail": {
+      "title": "服务详情",
+      "value": "[color=#666666]描述:手工沙画瓶\r\n类型:商品类\r\n商品尺寸:7ml*3\r\n商品材质:彩沙\r\n定制用时:1\r\n【商品名称】：创意艺术沙画瓶\r\n【商品尺寸】：7ml *3\r\n【商品图案】：参见下图\r\n【是否包邮】：是\r\n[img]http://image19-d.yueus.com/yueyue/20160217/20160217002831_885979_201519_52568_640.jpg?1280x960_120[/img][img]http://image19-d.yueus.com/yueyue/20160217/20160217002831_885979_201519_52569_640.jpg?1280x960_120[/img][img]http://image19-d.yueus.com/yueyue/20160217/20160217002831_885979_201519_52570_640.jpg?1280x960_120[/img]\r\n三色可选，请写明要哪个颜色，送盒子\r\n\r\n广州市内可选择面交[/color]"
+    },
+    "share": {
+      "title": "【表白神器】I LOVE U立体沙画手工沙画瓶套装  （包邮） | 约约",
+      "content": "上约约，给你的生活加点料吧。",
+      "sina_content": "【表白神器】I LOVE U立体沙画手工沙画瓶套装  （包邮），上约约，给你的生活加点料吧。 http://www.yueus.com/goods/2123874",
+      "remark": "",
+      "url": "http://www.yueus.com/goods/2123874",
+      "img": "http://image19.yueus.com/yueyue/20160217/20160217002651_269084_201519_52567_260.jpg?640x480_120",
+      "user_id": "",
+      "qrcodeurl": "http://www.yueus.com/goods/2123874"
+    },
+    "order_link": "yueyue://goto?type=inner_web&url=http%3A%2F%2Fyp.yueus.com%2Fmall%2Fuser%2Forder%2Fconfirm.php%3Fgoods_id%3D2123874%26type_id%3D43%26direct_order_id%3D&wifi_url=http%3A%2F%2Fyp.yueus.com%2Fmall%2Fuser%2Forder%2Fconfirm.php%3Fgoods_id%3D2123874%26type_id%3D43%26direct_order_id%3D&showtitle=1",
+    "consult_link": "yueyue://goto?user_id=&receiver_id=201519&receiver_name=SandmanCrew%E7%AB%8B%E4%BD%93%E6%B2%99%E7%94%BB&goods_id=2123874&pid=1220021&type=inner_app&media_type=goods&goods_name=%E3%80%90%E8%A1%A8%E7%99%BD%E7%A5%9E%E5%99%A8%E3%80%91I%20LOVE%20U%E7%AB%8B%E4%BD%93%E6%B2%99%E7%94%BB%E6%89%8B%E5%B7%A5%E6%B2%99%E7%94%BB%E7%93%B6%E5%A5%97%E8%A3%85%20%20%EF%BC%88%E5%8C%85%E9%82%AE%EF%BC%89&price=￥40.00&buy_num=%E5%B7%B2%E6%9C%8915%E4%BA%BA%E8%B4%AD%E4%B9%B0&image=http%3A%2F%2Fimage19-d.yueus.com%2Fyueyue%2F20160217%2F20160217002651_269084_201519_52567_260.jpg%3F640x480_120&url=yueyue%3A%2F%2Fgoto%3Fgoods_id%3D2123874%26pid%3D1220102%26type%3Dinner_app&order_url=yueyue%3A%2F%2Fgoto%3Ftype%3Dinner_web%26url%3Dhttp%253A%252F%252Fyp.yueus.com%252Fmall%252Fuser%252Forder%252Fconfirm.php%253Fgoods_id%253D2123874%2526type_id%253D43%2526direct_order_id%253D%26wifi_url%3Dhttp%253A%252F%252Fyp.yueus.com%252Fmall%252Fuser%252Forder%252Fconfirm.php%253Fgoods_id%253D2123874%2526type_id%253D43%2526direct_order_id%253D%26showtitle%3D1",
+    "mark": {
+      "sign": "",
+      "sign_bg": "0"
+    },
+    "promotion": [],
+    "prices_list": [
+      {
+        "id": "145926336093999",
+        "prices": "￥40.00",
+        "unit": "/标准价格"
+      }
+    ]
+  },
+  "runtime": "0.0312",
+  "base": "d00a53e2",
+  "appver": "3.8.10",
+  "apiver": "v2",
+  "dev": 2
+}
